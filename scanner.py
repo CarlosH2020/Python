@@ -14,7 +14,7 @@ common_ports = {
         "194": "IRC",
         "443": "HTTPS",
         "3306": "MySQL",
-        "25565": "Minecraft"
+       
 }
 
 def get_scan_args():
