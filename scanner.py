@@ -13,8 +13,7 @@ common_ports = {
         "80": "HTTP",
         "194": "IRC",
         "443": "HTTPS",
-        "3306": "MySQL",
-       
+        "3306": "MySQL"
 }
 
 def get_scan_args():
